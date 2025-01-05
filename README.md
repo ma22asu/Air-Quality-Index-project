@@ -1,5 +1,7 @@
 Air Quality Prediction Using Neural Networks and Ensemble Methods
+
 Overview
+
 This project predicts air quality using machine learning models applied to a dataset from an air monitoring station in Italy. It focuses on two tasks:
 
 Regression: Predict pollutant concentrations.
